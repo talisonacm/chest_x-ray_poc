@@ -3,6 +3,8 @@
 
 ### __Predictions__ 
 
+Model was trained to distinguish 4 classes:
+
 0: 'Covid-19'
 
 1: 'Normal'
