@@ -24,3 +24,7 @@
 
 <img width="40%" src="IMAGES/confusion_matrix.png" style="max-width:40%;"></a>
 
+### __Download Model__ 
+
+https://drive.google.com/file/d/1Pg-tWdFLzu-1RdDV_9ZiUxrf7ZUsYrVU/view?usp=drive_link
+
