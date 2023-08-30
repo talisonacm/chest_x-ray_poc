@@ -11,17 +11,16 @@
 ### __Results__ 
 
 **Examples**
-
 <p align="center">
     <img width="100%" src="IMAGES/examples.png" style="max-width:100%;"></a>
 </p>
 
 **Classification Report**
-<p align="center">
-    <img width="60%" src="IMAGES/classification_report.png" style="max-width:60%;"></a>
-</p>
+
+<img width="30%" src="IMAGES/classification_report.png" style="max-width:30%;"></a>
+
 
 **Confusion Matrix**
-<p align="center">
-    <img width="60%" src="IMAGES/confusion_matrix.png" style="max-width:60%;"></a>
-</p>
+
+<img width="30%" src="IMAGES/confusion_matrix.png" style="max-width:30%;"></a>
+
