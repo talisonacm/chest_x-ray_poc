@@ -12,7 +12,7 @@
 
 **Examples**
 <p align="center">
-    <img width="100%" src="IMAGES/examples.png" style="max-width:100%;"></a>
+    <img width="80%" src="IMAGES/examples.png" style="max-width:80%;"></a>
 </p>
 
 **Classification Report**
