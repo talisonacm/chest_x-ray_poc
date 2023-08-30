@@ -4,8 +4,11 @@
 ### __Predictions__ 
 
 0: 'Covid-19'
+
 1: 'Normal'
+
 2: 'Pneunomia viral'
+
 3: 'Pneunomia bacterial'
 
 ### __Results__ 
