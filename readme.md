@@ -14,6 +14,9 @@
     <img width="100%" src="IMAGES/examples.png" style="max-width:100%;"></a>
 </p>
 
+<p align="center">
+    <img width="60%" src="IMAGES/classification_report.png" style="max-width:60%;"></a>
+</p>
 
 <p align="center">
     <img width="60%" src="IMAGES/confusion_matrix.png" style="max-width:60%;"></a>
