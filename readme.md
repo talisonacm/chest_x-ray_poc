@@ -17,10 +17,10 @@
 
 **Classification Report**
 
-<img width="30%" src="IMAGES/classification_report.png" style="max-width:30%;"></a>
+<img width="40%" src="IMAGES/classification_report.png" style="max-width:40%;"></a>
 
 
 **Confusion Matrix**
 
-<img width="30%" src="IMAGES/confusion_matrix.png" style="max-width:30%;"></a>
+<img width="40%" src="IMAGES/confusion_matrix.png" style="max-width:40%;"></a>
 
