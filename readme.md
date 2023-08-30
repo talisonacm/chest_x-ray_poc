@@ -1,5 +1,7 @@
 ## __Chest X-Ray PoC__
 
+This research was designed to investigate the application of artificial intelligence (AI) in the diagnosis of chest diseases using digital chest X-ray images
+
 
 ### __Predictions__ 
 
