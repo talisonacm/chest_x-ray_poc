@@ -16,5 +16,5 @@
 
 
 <p align="center">
-    <img width="100%" src="IMAGES/confusion_matrix.png" style="max-width:100%;"></a>
+    <img width="60%" src="IMAGES/confusion_matrix.png" style="max-width:60%;"></a>
 </p>
